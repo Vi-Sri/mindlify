@@ -1,7 +1,9 @@
 # mindlify
-Collaborative note taking and build your own learning path with other's notes as well.
+A smart chrome extension plugin to manage and add saved links and notes to your blogs with roam like flexibility. 
 
-- Upload your Markdown folder with heirarchy.
-- Build connection between notes.
-- Publish it online and get rewarded.
-- Build your learning recipe by adding other's notes to your study plan. 
+- Add links to your blogs from your bookmarks/pocket or saves links or notes you have on mindlify
+- Create flexible block references, image connections and link references
+- Create a link graph between the blogs you write, the links you have and the notes you saved
+- Simple markdown support. 
+
+Written on react and golang
